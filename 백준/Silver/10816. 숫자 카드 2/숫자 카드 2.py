@@ -1,8 +1,8 @@
 import sys
-n = int(input())
+n = int(sys.stdin.readline())
 cards = {}
 
-nums = list(map(int, input().split()))
+nums = list(map(int, sys.stdin.readline().split()))
 
 for n in nums:
     if cards.get(n) == None:
@@ -12,9 +12,9 @@ for n in nums:
         cards.update({n: temp+1})
 # print(cards)
 
-m = int(input())
+m = int(sys.stdin.readline())
 
-keys = list(map(int, input().split()))
+keys = list(map(int, sys.stdin.readline().split()))
 
 for key in keys:
     if cards.get(key) == None:
