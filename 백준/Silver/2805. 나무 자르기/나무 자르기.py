@@ -1,8 +1,8 @@
 trees, target = map(int, input().split())
 
 forest = list(map(int, input().split()))
-forest.sort(reverse=True)
-forest = tuple(forest)
+# forest.sort(reverse=True)
+# forest = tuple(forest)
 # print(forest)
 
 #bst를 해 봅시다
