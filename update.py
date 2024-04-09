@@ -2,8 +2,9 @@
 
 import os
 from urllib import parse
+from datetime import datetime
 
-HEADER="""# 
+HEADER = """# 
 # 백준 & 프로그래머스 문제 풀이 목록
 
 프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
@@ -14,8 +15,8 @@ def main():
     content = ""
     content += HEADER
     
-    directories = [];
-    solveds = [];
+    directories = []
+    solveds = []
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -42,13 +43,15 @@ def main():
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += "| 문제번호 | 링크 |\n"
-                content += "| ----- | ----- |\n"
+                content += "| 문제번호 | 링크 | 날짜 |\n"
+                content += "| ----- | ----- | ----- |\n"
             directories.append(directory)
 
         for file in files:
             if category not in solveds:
-                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
+                file_path = parse.quote(os.path.join(root, file))
+                file_date = datetime.fromtimestamp(os.path.getmtime(os.path.join(root, file))).strftime('%Y-%m-%d %H:%M:%S')
+                content += "|{}|[링크]({})|{}|\n".format(category, file_path, file_date)
                 solveds.append(category)
                 print("category : " + category)
 
