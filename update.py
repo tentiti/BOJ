@@ -1,15 +1,22 @@
-#!/usr/bin/env python
-
 import os
 from urllib import parse
+import requests
 from datetime import datetime
 
 HEADER = """# 
 # 백준 & 프로그래머스 문제 풀이 목록
 
-프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
-
 """
+
+def get_last_commit_date(repo, file_path):
+    url = f"https://api.github.com/repos/{repo}/commits?path={file_path}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        commits = response.json()
+        if commits:
+            last_commit_date = commits[0]['commit']['committer']['date']
+            return datetime.strptime(last_commit_date, "%Y-%m-%dT%H:%M:%SZ")
+    return None
 
 def main():
     content = ""
@@ -18,10 +25,12 @@ def main():
     directories = []
     solveds = []
 
+    repo = "https://github.com/tentiti/BOJ/"  # Replace with your GitHub username and repository name
+
     for root, dirs, files in os.walk("."):
         dirs.sort()
-        if root == '.':
-            for dir in ('.git', '.github'):
+        if root == ".":
+            for dir in (".git", ".github"):
                 try:
                     dirs.remove(dir)
                 except ValueError:
@@ -29,34 +38,41 @@ def main():
             continue
 
         category = os.path.basename(root)
-        
-        if category == 'images':
+
+        if category == "images":
             continue
-        
+
         directory = os.path.basename(os.path.dirname(root))
-        
-        if directory == '.':
+
+        if directory == ".":
             continue
-            
+
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += "| 문제번호 | 링크 | 날짜 |\n"
+                content += "| 문제번호 | 링크 | 푼 날짜 |\n"
                 content += "| ----- | ----- | ----- |\n"
             directories.append(directory)
 
         for file in files:
             if category not in solveds:
-                file_path = parse.quote(os.path.join(root, file))
-                file_date = datetime.fromtimestamp(os.path.getmtime(os.path.join(root, file))).strftime('%Y-%m-%d %H:%M:%S')
-                content += "|{}|[링크]({})|{}|\n".format(category, file_path, file_date)
+                file_path = os.path.join(root, file)
+                last_commit_date = get_last_commit_date(repo, file_path)
+                if last_commit_date:
+                    last_commit_date_str = last_commit_date.strftime("%Y-%m-%d")
+                else:
+                    last_commit_date_str = "Unknown"
+                content += "|{}|[링크]({})|{}|\n".format(
+                    category, parse.quote(file_path), last_commit_date_str
+                )
                 solveds.append(category)
                 print("category : " + category)
 
     with open("README.md", "w") as fd:
         fd.write(content)
-        
+
+
 if __name__ == "__main__":
     main()
