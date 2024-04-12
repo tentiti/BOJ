@@ -1,0 +1,1 @@
+print(open(0).read().replace('e','+').replace('i','e').replace('+','i').replace('E','+').replace('I','E').replace('+','I'))
