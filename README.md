@@ -104,6 +104,7 @@
 |5086. 배수와 약수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5086.%E2%80%85%EB%B0%B0%EC%88%98%EC%99%80%E2%80%85%EC%95%BD%EC%88%98/README.md)|
 |5300. Fill the Rowboats！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5300.%E2%80%85Fill%E2%80%85the%E2%80%85Rowboats%EF%BC%81/README.md)|
 |5357. Dedupe|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5357.%E2%80%85Dedupe/Dedupe.py)|
+|5358. Football Team|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5358.%E2%80%85Football%E2%80%85Team/README.md)|
 |5543. 상근날드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|
 |5554. 심부름 가는 길|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5554.%E2%80%85%EC%8B%AC%EB%B6%80%EB%A6%84%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8/%EC%8B%AC%EB%B6%80%EB%A6%84%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8.py)|
 |5622. 다이얼|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/README.md)|
