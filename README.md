@@ -108,6 +108,7 @@
 |5543. 상근날드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|
 |5554. 심부름 가는 길|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5554.%E2%80%85%EC%8B%AC%EB%B6%80%EB%A6%84%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8/%EC%8B%AC%EB%B6%80%EB%A6%84%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8.py)|
 |5622. 다이얼|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/README.md)|
+|6749. Next in line|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6749.%E2%80%85Next%E2%80%85in%E2%80%85line/Next%E2%80%85in%E2%80%85line.py)|
 |6763. Speed fines are not fine！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6763.%E2%80%85Speed%E2%80%85fines%E2%80%85are%E2%80%85not%E2%80%85fine%EF%BC%81/README.md)|
 |6840. Who is in the middle？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6840.%E2%80%85Who%E2%80%85is%E2%80%85in%E2%80%85the%E2%80%85middle%EF%BC%9F/README.md)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/OX%ED%80%B4%EC%A6%88.py)|
