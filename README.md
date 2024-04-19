@@ -109,6 +109,7 @@
 |5524. 입실 관리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC/README.md)|
 |5543. 상근날드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C.py)|
 |5554. 심부름 가는 길|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5554.%E2%80%85%EC%8B%AC%EB%B6%80%EB%A6%84%E2%80%85%EA%B0%80%EB%8A%94%E2%80%85%EA%B8%B8/README.md)|
+|5575. 타임 카드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5575.%E2%80%85%ED%83%80%EC%9E%84%E2%80%85%EC%B9%B4%EB%93%9C/README.md)|
 |5622. 다이얼|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/%EB%8B%A4%EC%9D%B4%EC%96%BC.py)|
 |6749. Next in line|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6749.%E2%80%85Next%E2%80%85in%E2%80%85line/README.md)|
 |6763. Speed fines are not fine！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6763.%E2%80%85Speed%E2%80%85fines%E2%80%85are%E2%80%85not%E2%80%85fine%EF%BC%81/README.md)|
