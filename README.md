@@ -118,6 +118,7 @@
 |6778. Which Alien？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6778.%E2%80%85Which%E2%80%85Alien%EF%BC%9F/README.md)|
 |6840. Who is in the middle？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6840.%E2%80%85Who%E2%80%85is%E2%80%85in%E2%80%85the%E2%80%85middle%EF%BC%9F/README.md)|
 |6841. I Speak TXTMSG|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6841.%E2%80%85I%E2%80%85Speak%E2%80%85TXTMSG/I%E2%80%85Speak%E2%80%85TXTMSG.py)|
+|6888. Terms of Office|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6888.%E2%80%85Terms%E2%80%85of%E2%80%85Office/README.md)|
 |8674. Tabliczka|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8674.%E2%80%85Tabliczka/README.md)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/README.md)|
 |9063. 대지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9063.%E2%80%85%EB%8C%80%EC%A7%80/README.md)|
