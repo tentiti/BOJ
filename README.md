@@ -121,6 +121,7 @@
 |6888. Terms of Office|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6888.%E2%80%85Terms%E2%80%85of%E2%80%85Office/README.md)|
 |8674. Tabliczka|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8674.%E2%80%85Tabliczka/README.md)|
 |8710. Koszykarz|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8710.%E2%80%85Koszykarz/README.md)|
+|8760. Schronisko|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8760.%E2%80%85Schronisko/README.md)|
 |8958. OX퀴즈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/README.md)|
 |9063. 대지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9063.%E2%80%85%EB%8C%80%EC%A7%80/README.md)|
 |9506. 약수들의 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9506.%E2%80%85%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9/README.md)|
