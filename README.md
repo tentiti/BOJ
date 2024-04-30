@@ -11,6 +11,7 @@
 |10156. 과자|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10156.%E2%80%85%EA%B3%BC%EC%9E%90/README.md)|
 |10188. Quadrilateral|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10188.%E2%80%85Quadrilateral/README.md)|
 |10430. 나머지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10430.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80/README.md)|
+|10480. Oddities|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10480.%E2%80%85Oddities/README.md)|
 |10699. 오늘 날짜|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10699.%E2%80%85%EC%98%A4%EB%8A%98%E2%80%85%EB%82%A0%EC%A7%9C/README.md)|
 |10768. 특별한 날|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10768.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EB%82%A0/README.md)|
 |10798. 세로읽기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0/README.md)|
