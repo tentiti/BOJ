@@ -33,6 +33,7 @@
 |1268. 임시 반장 정하기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1268.%E2%80%85%EC%9E%84%EC%8B%9C%E2%80%85%EB%B0%98%EC%9E%A5%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0/README.md)|
 |1292. 쉽게 푸는 문제|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1292.%E2%80%85%EC%89%BD%EA%B2%8C%E2%80%85%ED%91%B8%EB%8A%94%E2%80%85%EB%AC%B8%EC%A0%9C/README.md)|
 |13136. Do Not Touch Anything|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13136.%E2%80%85Do%E2%80%85Not%E2%80%85Touch%E2%80%85Anything/README.md)|
+|13866. 팀 나누기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13866.%E2%80%85%ED%8C%80%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0/README.md)|
 |14065. Gorivo|[링크](./%EB%B0%B1%EC%A4%80/Bronze/14065.%E2%80%85Gorivo/README.md)|
 |14215. 세 막대|[링크](./%EB%B0%B1%EC%A4%80/Bronze/14215.%E2%80%85%EC%84%B8%E2%80%85%EB%A7%89%EB%8C%80/README.md)|
 |14337. Helicopter|[링크](./%EB%B0%B1%EC%A4%80/Bronze/14337.%E2%80%85Helicopter/README.md)|
