@@ -54,6 +54,7 @@
 |2010. 플러그|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2010.%E2%80%85%ED%94%8C%EB%9F%AC%EA%B7%B8/README.md)|
 |2083. 럭비 클럽|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2083.%E2%80%85%EB%9F%AD%EB%B9%84%E2%80%85%ED%81%B4%EB%9F%BD/README.md)|
 |20833. Kuber|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20833.%E2%80%85Kuber/README.md)|
+|21631. Checkers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21631.%E2%80%85Checkers/README.md)|
 |21633. Bank Transfer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21633.%E2%80%85Bank%E2%80%85Transfer/README.md)|
 |2231. 분해합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9/%EB%B6%84%ED%95%B4%ED%95%A9.py)|
 |2292. 벌집|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2292.%E2%80%85%EB%B2%8C%EC%A7%91/README.md)|
