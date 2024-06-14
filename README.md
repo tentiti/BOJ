@@ -56,6 +56,7 @@
 |20673. Covid－19|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20673.%E2%80%85Covid%EF%BC%8D19/README.md)|
 |2083. 럭비 클럽|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2083.%E2%80%85%EB%9F%AD%EB%B9%84%E2%80%85%ED%81%B4%EB%9F%BD/README.md)|
 |20833. Kuber|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20833.%E2%80%85Kuber/README.md)|
+|20867. Rulltrappa|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20867.%E2%80%85Rulltrappa/README.md)|
 |21612. Boiling Water|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21612.%E2%80%85Boiling%E2%80%85Water/README.md)|
 |21631. Checkers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21631.%E2%80%85Checkers/README.md)|
 |21633. Bank Transfer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21633.%E2%80%85Bank%E2%80%85Transfer/README.md)|
