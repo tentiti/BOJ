@@ -64,6 +64,7 @@
 |2083. 럭비 클럽|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2083.%E2%80%85%EB%9F%AD%EB%B9%84%E2%80%85%ED%81%B4%EB%9F%BD/README.md)|
 |20833. Kuber|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20833.%E2%80%85Kuber/README.md)|
 |20867. Rulltrappa|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20867.%E2%80%85Rulltrappa/Rulltrappa.py)|
+|20976. 2 番目に大きい整数 （The Second Largest Integer）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/20976.%E2%80%852%E2%80%85%E7%95%AA%E7%9B%AE%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%84%E6%95%B4%E6%95%B0%E2%80%85%EF%BC%88The%E2%80%85Second%E2%80%85Largest%E2%80%85Integer%EF%BC%89/README.md)|
 |21612. Boiling Water|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21612.%E2%80%85Boiling%E2%80%85Water/README.md)|
 |21631. Checkers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21631.%E2%80%85Checkers/Checkers.py)|
 |21633. Bank Transfer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21633.%E2%80%85Bank%E2%80%85Transfer/README.md)|
