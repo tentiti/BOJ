@@ -55,6 +55,7 @@
 |17871. Integers in Rational Bases|[링크](./%EB%B0%B1%EC%A4%80/Bronze/17871.%E2%80%85Integers%E2%80%85in%E2%80%85Rational%E2%80%85Bases/Integers%E2%80%85in%E2%80%85Rational%E2%80%85Bases.py)|
 |18330. Petrol|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18330.%E2%80%85Petrol/Petrol.py)|
 |18411. 試験 （Exam）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18411.%E2%80%85%E8%A9%A6%E9%A8%93%E2%80%85%EF%BC%88Exam%EF%BC%89/%E8%A9%A6%E9%A8%93%E2%80%85%EF%BC%88Exam%EF%BC%89.py)|
+|18691. Pokemon Buddy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18691.%E2%80%85Pokemon%E2%80%85Buddy/Pokemon%E2%80%85Buddy.py)|
 |1934. 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1934.%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/README.md)|
 |19532. 수학은 비대면강의입니다|[링크](./%EB%B0%B1%EC%A4%80/Bronze/19532.%E2%80%85%EC%88%98%ED%95%99%EC%9D%80%E2%80%85%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4/%EC%88%98%ED%95%99%EC%9D%80%E2%80%85%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4.py)|
 |19698. 헛간 청약|[링크](./%EB%B0%B1%EC%A4%80/Bronze/19698.%E2%80%85%ED%97%9B%EA%B0%84%E2%80%85%EC%B2%AD%EC%95%BD/%ED%97%9B%EA%B0%84%E2%80%85%EC%B2%AD%EC%95%BD.py)|
