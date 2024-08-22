@@ -71,6 +71,7 @@
 |21631. Checkers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21631.%E2%80%85Checkers/Checkers.py)|
 |21633. Bank Transfer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21633.%E2%80%85Bank%E2%80%85Transfer/README.md)|
 |21964. 선린인터넷고등학교 교가|[링크](./%EB%B0%B1%EC%A4%80/Bronze/21964.%E2%80%85%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%E2%80%85%EA%B5%90%EA%B0%80/README.md)|
+|22015. 金平糖 （Konpeito）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/22015.%E2%80%85%E9%87%91%E5%B9%B3%E7%B3%96%E2%80%85%EF%BC%88Konpeito%EF%BC%89/README.md)|
 |2231. 분해합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9/README.md)|
 |2292. 벌집|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2292.%E2%80%85%EB%B2%8C%EC%A7%91/%EB%B2%8C%EC%A7%91.py)|
 |2309. 일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2309.%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md)|
