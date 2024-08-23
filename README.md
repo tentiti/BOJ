@@ -54,6 +54,7 @@
 |17548. Greetings！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/17548.%E2%80%85Greetings%EF%BC%81/README.md)|
 |17871. Integers in Rational Bases|[링크](./%EB%B0%B1%EC%A4%80/Bronze/17871.%E2%80%85Integers%E2%80%85in%E2%80%85Rational%E2%80%85Bases/Integers%E2%80%85in%E2%80%85Rational%E2%80%85Bases.py)|
 |18330. Petrol|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18330.%E2%80%85Petrol/Petrol.py)|
+|18408. 3 つの整数 （Three Integers）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18408.%E2%80%853%E2%80%85%E3%81%A4%E3%81%AE%E6%95%B4%E6%95%B0%E2%80%85%EF%BC%88Three%E2%80%85Integers%EF%BC%89/README.md)|
 |18411. 試験 （Exam）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18411.%E2%80%85%E8%A9%A6%E9%A8%93%E2%80%85%EF%BC%88Exam%EF%BC%89/%E8%A9%A6%E9%A8%93%E2%80%85%EF%BC%88Exam%EF%BC%89.py)|
 |18691. Pokemon Buddy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18691.%E2%80%85Pokemon%E2%80%85Buddy/Pokemon%E2%80%85Buddy.py)|
 |1934. 최소공배수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1934.%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/README.md)|
