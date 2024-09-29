@@ -120,6 +120,7 @@
 |26731. Zagubiona litera|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26731.%E2%80%85Zagubiona%E2%80%85litera/README.md)|
 |26768. H4x0r|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26768.%E2%80%85H4x0r/README.md)|
 |27110. 특식 배부|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27110.%E2%80%85%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80/%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80.py)|
+|27262. Лифт|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27262.%E2%80%85%D0%9B%D0%B8%D1%84%D1%82/README.md)|
 |27310. ：chino＿shock：|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27310.%E2%80%85%EF%BC%9Achino%EF%BC%BFshock%EF%BC%9A/README.md)|
 |27323. 직사각형|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27323.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/README.md)|
 |27331. 2 桁の整数 （Two－digit Integer）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27331.%E2%80%852%E2%80%85%E6%A1%81%E3%81%AE%E6%95%B4%E6%95%B0%E2%80%85%EF%BC%88Two%EF%BC%8Ddigit%E2%80%85Integer%EF%BC%89/README.md)|
