@@ -119,6 +119,7 @@
 |26546. Reverse|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26546.%E2%80%85Reverse/Reverse.py)|
 |26560. Periods|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26560.%E2%80%85Periods/README.md)|
 |26575. Pups|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26575.%E2%80%85Pups/Pups.py)|
+|26592. Triangle Height|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26592.%E2%80%85Triangle%E2%80%85Height/Triangle%E2%80%85Height.py)|
 |26731. Zagubiona litera|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26731.%E2%80%85Zagubiona%E2%80%85litera/README.md)|
 |26768. H4x0r|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26768.%E2%80%85H4x0r/README.md)|
 |27110. 특식 배부|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27110.%E2%80%85%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80/%ED%8A%B9%EC%8B%9D%E2%80%85%EB%B0%B0%EB%B6%80.py)|
