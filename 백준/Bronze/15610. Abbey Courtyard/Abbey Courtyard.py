@@ -1,0 +1,1 @@
+print(4*float(input())**0.5)
