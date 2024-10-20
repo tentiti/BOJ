@@ -209,6 +209,7 @@
 |9295. 주사위|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9295.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84/%EC%A3%BC%EC%82%AC%EC%9C%84.py)|
 |9316. Hello Judge|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9316.%E2%80%85Hello%E2%80%85Judge/README.md)|
 |9506. 약수들의 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9506.%E2%80%85%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9/README.md)|
+|9724. Perfect Cube|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9724.%E2%80%85Perfect%E2%80%85Cube/README.md)|
 |9772. Quadrants|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9772.%E2%80%85Quadrants/README.md)|
 |9782. Median|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9782.%E2%80%85Median/Median.py)|
 ### 🚀 Gold
